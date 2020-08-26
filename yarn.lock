@@ -4,5 +4,5 @@
 
 "@fortawesome/fontawesome-free@^5.14.0":
   version "5.14.0"
-  resolved "https://npm.fontawesome.com/@fortawesome/fontawesome-free/-/5.14.0/fontawesome-free-5.14.0.tgz#a371e91029ebf265015e64f81bfbf7d228c9681f"
+  resolved "https://registry.yarnpkg.com/@fortawesome/fontawesome-free/-/5.14.0/fontawesome-free-5.14.0.tgz#a371e91029ebf265015e64f81bfbf7d228c9681f"
   integrity sha512-OfdMsF+ZQgdKHP9jUbmDcRrP0eX90XXrsXIdyjLbkmSBzmMXPABB8eobUJtivaupucYaByz6WNe1PI1JuYm3qA==
